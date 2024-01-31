@@ -1,0 +1,8 @@
+n1<-as.numeric(readline("enter first number="))
+
+n2<-as.numeric(readline("enter second number="))
+
+n3<-n1+n2
+
+cat("the sum=",n3,"\n")
+
