@@ -1,0 +1,9 @@
+n<-as.numeric(readline("enter first number="))
+
+if((n%%2)==0){
+  cat(n,"is a even number")
+}else{
+  cat(n,"is a odd number")
+}
+  
+
